@@ -1,0 +1,8 @@
+numpy==1.21.5
+scipy==1.10.1
+opencv-python==4.10.0.84
+plyfile==1.1
+trimesh==4.12.2
+pyhocon==0.3.61
+PyMCubes==0.1.6
+tqdm==4.66.6
